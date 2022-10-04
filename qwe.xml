@@ -1,6 +1,10 @@
-ï»¿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <RootLocal>
-  <Version NO="8.0.0.0" remark="æœ¬åœ°ç‰ˆæœ¬å·" />
-  <ServerDownloadUrl url="https://xmxdxk-version.oss-cn-chengdu.aliyuncs.com/update.zip" remark="å‡çº§åœ°å€" />
-  <ApplicationName name="NCREOneProject" remark="åº”ç”¨ç¨‹åºåç§°" />
+  <Version NO="8.0.0.0" remark="±¾µØ°æ±¾ºÅ" />
+  <ServerDownloadUrl url="https://xmxdxk-version.oss-cn-chengdu.aliyuncs.com/update.zip" remark="Éý¼¶µØÖ·" />
+  <ApplicationName name="NCREOneProject" remark="Ó¦ÓÃ³ÌÐòÃû³Æ" />
 </RootLocal>
+
+
+
+git addqudata
