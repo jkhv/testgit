@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RootLocal>
+  <Version NO="8.0.0.0" remark="本地版本号" />
+  <ServerDownloadUrl url="https://xmxdxk-version.oss-cn-chengdu.aliyuncs.com/update.zip" remark="升级地址" />
+  <ApplicationName name="NCREOneProject" remark="应用程序名称" />
+</RootLocal>
+
+
+
+git addqudata
